@@ -71,3 +71,4 @@ let secenek_1 = Secenekler_.eft_; //0 değeri gelir index değeri çünkü bize 
 let secenek$1 = Sececekler$.eft$; // 2 den başlar cünkü değer verdik
 
 console.log(secenek$1);
+console.log(secenek_1);
