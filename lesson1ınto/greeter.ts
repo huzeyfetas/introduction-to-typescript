@@ -9,3 +9,5 @@ let user = "Hüzeyfe";
 greeter(user);
 
 // typescript kodu için tsc greeter.ts yazıp enterlıyoruz böylece js cıktısı olacak hemen aynı yerde. calıstırmak için de node greeter.js deyip çalıştırıyoruz.
+
+// bilgisayarımızda typescript ve node un kurulu olması bu aşamada önemli.
